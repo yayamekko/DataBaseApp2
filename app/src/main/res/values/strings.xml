@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataBaseApp</string>
+    <string name="btn1">入力データを登録</string>
+    <string name="btn2">登録済みのデータを読み込む</string>
+    <string name="btn3">入力データ2を登録</string>
+    <string name="btn4">登録済みのデータ2を読み込む</string>
+</resources>
